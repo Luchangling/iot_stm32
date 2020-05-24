@@ -1,0 +1,1 @@
+fromelf.exe --bin -o dtu.bin dtu_proj.axf

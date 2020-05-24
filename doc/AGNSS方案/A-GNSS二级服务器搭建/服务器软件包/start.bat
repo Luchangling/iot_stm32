@@ -1,0 +1,3 @@
+@echo off
+echo 系统正在运行，请勿关闭....
+java -jar AgnssClient.jar
